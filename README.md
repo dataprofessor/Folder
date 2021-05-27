@@ -1,5 +1,5 @@
 # John Doe
-An Aspiring Data Scientist | 2X Kaggle Grandmaster
+*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
 
 # Education
 * Masters of Science (Data Science), *YouTube University*, 2016-2018
